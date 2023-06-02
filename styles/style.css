@@ -1,0 +1,90 @@
+
+body{
+    background-image:url(/IWT/IWT/src/images/background1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+.logo{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+  border-radius: 50%;
+  
+   
+}
+.nav ul {
+    list-style-type: none;
+
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+
+.nav li{
+   
+    float :left;
+    
+}
+.nav li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.nav li a:hover{
+    color: green;
+}
+.productData{
+    background-color: white;
+    color:black;
+    margin-top: 15px;
+    margin: 10px;
+    border: 5px groove blue;
+    padding: 3px;
+}
+.productData .a{
+    text-align: center;
+
+}
+.productData .b{
+    text-align: left;
+
+}
+footer{
+    color :white;
+    text-align: center;
+    font-style: italic;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+#dat{
+    font-size: 30px;
+    position:absolute;
+    
+}
+.productName{
+    text-align: center;
+
+}
+#image1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    width:180px;
+}
+#para{
+    text-align: center;
+}
+
