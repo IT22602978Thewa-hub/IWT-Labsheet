@@ -31,7 +31,7 @@ function loadData(data){
             }else {
                 document.write ("there was something error");
             }
-
+//*** */
 
 }
 function priceForLoop(){
